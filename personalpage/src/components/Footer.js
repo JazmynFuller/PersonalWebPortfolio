@@ -15,7 +15,7 @@ import React from "react"
         <div className="col-md-12 py-6">
           <div className="mb-5 flex-center">
             
-            <a href="https://github.com/JazmynFuller" className="tw-ic">
+            <a target='_blank' href="https://github.com/JazmynFuller" className="tw-ic">
               <i className="fab fa-github fa-lg white-text mr-md-3 mr-3 fa-3x"> </i>
             </a>
             
@@ -23,7 +23,7 @@ import React from "react"
               <i className="fab fa-google-plus-g fa-lg white-text mr-md-3 mr-3 fa-3x"></i>
             </a>
             
-            <a href="https://www.linkedin.com/in/jazmynfuller/" className="li-ic">
+            <a target='_blank' href="https://www.linkedin.com/in/jazmynfuller/" className="li-ic">
               <i className="fab fa-linkedin-in fa-lg white-text mr-md-3 mr-3 fa-3x"> </i>
             </a>
             
@@ -33,7 +33,7 @@ import React from "react"
       </div>
 
     </div>    <div className="footer-copyright text-center py-3">© 2018 Copyright:
-      <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
+      <a target='_blank' href="https://mdbootstrap.com/education/bootstrap/" > MDBootstrap.com</a>
     </div>
 
   </footer>

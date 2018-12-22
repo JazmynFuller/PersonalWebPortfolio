@@ -4,8 +4,8 @@ function PhotoContent () {
 	return (
 		<div className="container-fluid info">
 			<div className="overlayBg row">
-				<div className="col-sm-6">
-					<h1 className="introHead"> Hello </h1>
+				<div className="col-sm-6 text-focus-in">
+					<h1 className="introHead"><span>&lt;</span> Hello World <span>/></span> </h1>
 					<p className="introPara">I am a 22 year old college student  
 					<br></br>Majoring in Computer Science<br></br>
 					Minoring in Music, Interaction Design, and Math<br></br>
