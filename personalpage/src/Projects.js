@@ -4,7 +4,7 @@ function Projects () {
 		return (
 			<div className="container-fluid">
 				<div className="row justify-content-center project-heading">
-					<div className="col-md-12"><h1>MyProjects()</h1></div>
+					<div className="col-md-12" id="projectsPortion" ><h1>MyProjects()</h1></div>
 				</div>
 				<div className="row justify-content-center sub-headings">
 					<div className="col-md-12"><h4>About()</h4><hr></hr>
@@ -32,7 +32,7 @@ function Projects () {
 
 					<div className="col-lg-4 col-md-6 mb-md-0 mb-4">
     					<div className="view overlay rounded z-depth-1">
-      					<img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" className="img-fluid" alt="Sample project image"/>
+      					<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/baking.jpeg?raw=true" className="img-fluid" alt="Sample project image"/>
       					<a>
         					<div className="mask rgba-white-slight"></div>
       					</a>
@@ -45,7 +45,7 @@ function Projects () {
 
   					<div className="col-lg-4 col-md-12 mb-lg-0 mb-4">
 						<div className="view overlay rounded z-depth-1">
-								<img src="https://mdbootstrap.com/img/Photos/Others/images/88.jpg" className="img-fluid" alt="Sample project image"/>
+								<img src="https://mdbootstrap.com/img/Photos/Others/images/58.jpg" className="img-fluid" alt="Sample project image"/>
 								<a>
         							<div className="mask rgba-white-slight"></div>
       							</a>
@@ -60,7 +60,7 @@ function Projects () {
 				<div className="row text-center project-cards justify-content-center">
 					<div className="col-lg-4 col-md-12 mb-lg-0 mb-4">
 						<div className="view overlay rounded z-depth-1">
-								<img src="https://mdbootstrap.com/img/Photos/Others/images/58.jpg" className="img-fluid" alt="Sample project image"/>
+								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/foodTruck.jpeg?raw=true" className="img-fluid" alt="Sample project image"/>
 								<a>
         							<div className="mask rgba-white-slight"></div>
       							</a>
@@ -73,7 +73,7 @@ function Projects () {
 
 					<div className="col-lg-4 col-md-6 mb-md-0 mb-4">
     					<div className="view overlay rounded z-depth-1">
-      					<img src="https://mdbootstrap.com/img/Photos/Others/images/88.jpg"className="img-fluid" alt="Sample project image"/>
+      					<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/bullsEye.jpg?raw=true"className="img-fluid" alt="Sample project image"/>
       					<a>
         					<div className="mask rgba-white-slight"></div>
       					</a>

@@ -16,7 +16,7 @@ function MyNav() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">Projects</a>
+              <a className="nav-link" href="#projectsPortion">Projects</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">Music</a>
