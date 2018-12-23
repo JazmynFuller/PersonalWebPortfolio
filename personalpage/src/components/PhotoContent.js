@@ -2,9 +2,9 @@ import React from "react"
 
 function PhotoContent () {
 	return (
-		<div className="container-fluid info">
+		<div className="info">
 			<div className="overlayBg row">
-				<div className="col-sm-6 text-focus-in">
+				<div className="col-sm-12 text-focus-in">
 					<h1 className="introHead"><span>&lt;</span> Hello World <span>/></span> </h1>
 					<p className="introPara">I am a 22 year old college student  
 					<br></br>Majoring in Computer Science<br></br>

@@ -126,7 +126,64 @@ main {
 	padding-top: 11%;
 	text-align: left;
 	background-image: url("green1a.jpg");
+  width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 90vh;
+	height: 92vh;
+}
+
+.project-heading {
+  background-color: #f8f5f6;
+  color: #000;
+  font-family: Monaco, courier;
+  padding-top: 8%;
+  padding-bottom: 4%;
+}
+
+.project-heading h1 {
+  font-size: 600% !important;
+}
+
+hr {
+
+  width: 30%;
+}
+
+
+.sub-headings {
+  background-color: #f8f5f6;
+  font-family:  Monaco, Courier New;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.btn {
+  background-color: #163841;
+}
+ .btn-sm {
+   color: #fff !important;
+ }
+
+.project-cards {
+  background-color: #93a69f;
+  padding: 5% 5%;
+}
+
+.skills-content {
+  background-color: #173842;
+  color: #e0d5db;
+}
+
+.skills-content hr {
+    border-top: 1px solid #e0d5db;
+}
+
+.progress-chart {
+  background-color: #f8f5f6;
+  padding: 2% 0;
+  font-family: Monaco, Courier New;
+}
+
+#bottom-bar {
+  padding-bottom: 4%;
 }
