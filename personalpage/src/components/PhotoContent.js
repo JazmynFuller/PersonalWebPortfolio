@@ -2,7 +2,6 @@ import React from "react"
 
 function PhotoContent () {
 	return (
-		<div className="info">
 			<div className="overlayBg row">
 				<div className="col-sm-12 text-focus-in">
 					<h1 className="introHead"><span>&lt;</span> Hello World <span>/></span> </h1>
@@ -14,7 +13,6 @@ function PhotoContent () {
 					</p>
 				</div>
 			</div>
-		</div>	
 	)
 }
 

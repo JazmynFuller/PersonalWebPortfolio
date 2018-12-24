@@ -125,7 +125,7 @@ main {
 	padding-left: 1%;
 	padding-top: 11%;
 	text-align: left;
-	background-image: url("green1a.jpg");
+	background-image: url("https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/green1a.jpg?raw=true");
   width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -187,3 +187,22 @@ hr {
 #bottom-bar {
   padding-bottom: 4%;
 }
+
+
+.mask h3{
+      transition: all 0.5s; 
+      font-weight: 900;
+}
+  
+.mask{
+    display: block;
+    color: #fff;
+    padding-top: 20%;
+    font-family: Monaco, Courier New;
+  }
+
+
+
+
+
+

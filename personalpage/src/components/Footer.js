@@ -19,8 +19,8 @@ import React from "react"
               <i className="fab fa-github fa-lg white-text mr-md-3 mr-3 fa-3x"> </i>
             </a>
             
-            <a className="gplus-ic">
-              <i className="fab fa-google-plus-g fa-lg white-text mr-md-3 mr-3 fa-3x"></i>
+            <a className="gplus-ic" href="mailto:a1Jazmyn@gmail.com?subject=Visited Your Site">
+              <i className="far fa-envelope fa-lg white-text mr-md-3 mr-3 fa-3x"></i>
             </a>
             
             <a target='_blank' href="https://www.linkedin.com/in/jazmynfuller/" className="li-ic">

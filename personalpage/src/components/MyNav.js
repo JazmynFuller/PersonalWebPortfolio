@@ -2,8 +2,7 @@ import React from "react"
 
 function MyNav() {
   return (
-      <div className="row">
-      <div className="col-sm-12">
+      <header>
       <nav className="navbar navbar-expand-lg navbar-dark">
         <a className="navbar-brand" href="#">Jazmyn Fuller</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText"
@@ -18,7 +17,7 @@ function MyNav() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="projects.html">Projects</a>
+              <a className="nav-link" href="#projectsPortion">Projects</a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">Music</a>
@@ -32,8 +31,7 @@ function MyNav() {
           </ul>
         </div>
       </nav>
-     </div> 
-     </div> 
+     </header> 
     )
 }
 
