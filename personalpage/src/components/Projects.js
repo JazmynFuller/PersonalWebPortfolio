@@ -21,7 +21,7 @@ function Projects () {
 				<div className="row text-center project-cards">
 					<div className="col-lg-4 col-md-12 mb-lg-0 mb-4">
 						<div className="view overlay rounded z-depth-1">
-								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/phone-app.jpg?raw=true" className="img-fluid" alt="Sample project image"/>
+								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/tumbl%C3%ABr.jpg?raw=true" className="img-fluid" alt="Sample project image"/>
 								
         							<div className="mask rgba-stylish-strong box">
         								<h3>Iot Smart Device</h3>
@@ -86,7 +86,7 @@ function Projects () {
 
 					<div className="col-lg-4 col-md-6 mb-md-0 mb-4">
     					<div className="view overlay rounded z-depth-1">
-      					<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/Screen%20Shot%202018-12-22%20at%206.48.00%20PM.png?raw=true"className="img-fluid" alt="Sample project image"/>
+      					<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/hub.jpeg?raw=true"className="img-fluid" alt="Sample project image"/>
       					
         					<div className="mask rgba-stylish-strong box">
         						<h3>HackathonHub</h3>
