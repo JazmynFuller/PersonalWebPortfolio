@@ -1,5 +1,5 @@
 import React from "react"
-	
+
 	function Footer() {
 		return (
 			<div>
@@ -12,8 +12,8 @@ import React from "react"
       <div className="row">
 
        
-        <div className="col-md-12 py-6">
-          <div className="mb-5 flex-center">
+        <div className="col-md-12 py-6 align-items-center">
+          <div className="mb-4 flex-center">
             
             <a target='_blank' href="https://github.com/JazmynFuller" className="tw-ic">
               <i className="fab fa-github fa-lg white-text mr-md-3 mr-3 fa-3x"> </i>
@@ -30,14 +30,19 @@ import React from "react"
           </div>
         </div>
 
+        <div className="col-md-12 align-items-center">
+          <a target="_blank" href="">Resume</a>
+        </div>
+
       </div>
 
-    </div>    <div className="footer-copyright text-center py-3">© 2018 Copyright:
-      <a target='_blank' href="https://mdbootstrap.com/education/bootstrap/" > MDBootstrap.com</a>
+    </div>    
+
+    <div className="footer-copyright text-center py-3">© 2018 Aspiring Developer: Jazmyn Fuller
     </div>
 
   </footer>
-			</div>
+	</div>
 		)
 	}
 export default Footer

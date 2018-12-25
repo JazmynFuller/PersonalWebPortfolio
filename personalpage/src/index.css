@@ -52,6 +52,10 @@ code {
     monospace;
 }
 
+/*.navbar-brand{
+  font-family: Monaco, courier;
+}
+*/
 #bg {
 	width: 100%;
 	height: 100%;
@@ -121,15 +125,15 @@ code {
   background-color: #173842;
 }
 
-main {
+main{
 	padding-left: 1%;
 	padding-top: 11%;
 	text-align: left;
-	background-image: url("https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/green1a.jpg?raw=true");
+	background-image: url("https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/green1a.jpg?raw=true");
   width: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 92vh;
+	height: 94vh;
 }
 
 .project-heading {
@@ -145,7 +149,6 @@ main {
 }
 
 hr {
-
   width: 30%;
 }
 
@@ -199,9 +202,92 @@ hr {
     color: #fff;
     padding-top: 20%;
     font-family: Monaco, Courier New;
+}
+
+figure.effect-chico img {
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: scale(1.12);
+  transform: scale(1.12);
+}
+
+figure.effect-chico:hover img {
+  opacity: 0.5;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+
+figure.effect-chico figcaption::before {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  bottom: 30px;
+  left: 30px;
+  border: 1px solid #fff;
+  content: '';
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+figure.effect-chico figcaption::before,
+figure.effect-chico p {
+  opacity: 0;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+}
+
+
+figure.effect-chico p {
+  margin: 0 auto;
+  max-width: 200px;
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+
+figure.effect-chico:hover figcaption::before,
+figure.effect-chico:hover p {
+  opacity: 1;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+
+@media screen and (max-width: 69.5em) {
+  .grid figure {
+    width: 50%;
+  } 
+
+  .grid figure figcaption {
+    font-size: 90%;
+  }
+}
+
+
+@media screen and (max-width: 41.5em) {
+
+  .grid figure {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .project-heading h1 {
+    font-size: 300% !important;
+  }
+}
+
+@media screen and (max-width: 200px) {
+
+  .introPara{
+  font-size: 100% !important;
+  font-weight: 340;
   }
 
 
+  .project-heading h1 {
+    font-size: 150% !important;
+    font-weight: 500!important; 
+  }
+}
 
 
 

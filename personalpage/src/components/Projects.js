@@ -24,8 +24,12 @@ function Projects () {
 								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/tumbl%C3%ABr.jpg?raw=true" className="img-fluid" alt="Sample project image"/>
 								
         							<div className="mask rgba-stylish-strong box">
-        								<h3>Iot Smart Device</h3>
-        								<p>Short Description</p>
+        								<figure className="effect-chico">
+        									<figcaption>
+        										<h3>Iot Smart Device</h3>
+        										<p>Responsive Design Practice</p>
+        									</figcaption>
+										</figure>
         							</div>
       							
 						</div>
@@ -40,8 +44,13 @@ function Projects () {
       					<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/bullsEye.jpg?raw=true" className="img-fluid" alt="Sample project image"/>
       					
         					<div className="mask rgba-stylish-strong box">
-        						<h3>Swift Target-Game</h3>
-        						<p>Short Description</p>
+        						<figure className="effect-chico">
+        							<figcaption>
+        								<h3>iOS Target-Game</h3>
+        								<p>First coding project in Swift</p>
+        							</figcaption>
+								</figure>
+
         					</div>
       					
     					</div>
@@ -56,8 +65,12 @@ function Projects () {
 								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/foodTruck.jpeg?raw=true" className="img-fluid" alt="Sample project image"/>
 								
         							<div className="mask rgba-stylish-strong box">
-        								<h3>NYC Open Data</h3>
-        								<p>Short Description</p>
+        								<figure className="effect-chico">
+        										<figcaption>
+        											<h3>NYC Open Data</h3>
+        											<p>Prototype Tool Displaying Food Trucks in NYC</p>
+        										</figcaption>
+        								</figure>
         							</div>
       							
 						</div>
@@ -74,8 +87,13 @@ function Projects () {
 								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/baking.jpeg?raw=true" className="img-fluid" alt="Sample project image"/>
 								
         							<div className="mask rgba-stylish-strong box">
-        								<h3>First Web Design Project</h3>
-        								<p>Short Description</p></div>
+        								<figure className="effect-chico">
+        									<figcaption>
+        										<h3>First Web Design Project</h3>
+        										<p>Simple Dessert Ideas for Christmas</p>
+        									</figcaption>
+        								</figure>
+        							</div>
       							
 						</div>
 
@@ -85,20 +103,25 @@ function Projects () {
 					</div>
 
 					<div className="col-lg-4 col-md-6 mb-md-0 mb-4">
+    					
     					<div className="view overlay rounded z-depth-1">
       					<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/hub.jpeg?raw=true"className="img-fluid" alt="Sample project image"/>
-      					
+      						
         					<div className="mask rgba-stylish-strong box">
-        						<h3>HackathonHub</h3>
-        						<p>Short Description</p>
+        						<figure className="effect-chico">
+        							<figcaption>
+        								<h3>HackathonHub</h3>
+        								<p>Website where hackathon attendees can form or join teams</p>
+        							</figcaption>
+        						</figure>
         					</div>
-      					
     					</div>
- 
+ 						
     					<div className="card-body pb-0">
       					<a className="btn  btn-sm" target="_blank" href="https://github.com/AnonymousKoala/hackathonhub"><i className="fas fa-code left"></i>More Info</a>
     					</div>
   					</div>
+
 
 				</div>
 
@@ -157,10 +180,7 @@ function Projects () {
                   		</div>
 					</div>
 				</div>
-
-
-
-			</div>
+		</div>
     	)
 }
 
