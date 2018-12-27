@@ -14,117 +14,75 @@ function Projects () {
 					Most of them are from school, while some are extracurricular and personal projects.
 					</p>
 					</div>
-					
-					
 				</div>
 
-				<div className="row text-center project-cards">
-					<div className="col-lg-4 col-md-12 mb-lg-0 mb-4">
-						<div className="view overlay rounded z-depth-1">
-								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/tumbl%C3%ABr.jpg?raw=true" className="img-fluid" alt="Sample project image"/>
-								
-        							<div className="mask rgba-stylish-strong box">
-        								<figure className="effect-chico">
-        									<figcaption>
-        										<h3>Iot Smart Device</h3>
-        										<p>Responsive Design Practice</p>
-        									</figcaption>
-										</figure>
-        							</div>
-      							
+				<div className="row justify-content-center text-center project-cards">
+					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
+						  <div className="view hovereffect rounded z-depth-3">
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/tumbl%C3%ABr.jpg?raw=true" alt=""/>
+        						<div className="overlay">
+           						<h1>IoT Smart Device</h1>
+           						<p className="info">Responsive Design Practice|Dec 2018<br></br>
+           						<a className="btn  btn-sm" target="_blank" href="https://github.com/JazmynFuller/iot-tumbler" ><i className="fas fa-code left"></i>More Info</a>
+           						</p>
+        						</div>
+    					  </div>
+					</div>	
+
+					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
+						  <div className="view hovereffect rounded z-depth-3">
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/bullsEye.jpg?raw=true" alt=""/>
+        						<div className="overlay">
+           						<h1>iOS Target-Game</h1>
+           						<p className="info">First coding project in Swift|Jan 2018<br></br>
+           						<a className="btn  btn-sm" target="_blank" href="https://github.com/kr3110/Hitme-ios-app" ><i className="fas fa-code left"></i>More Info</a>
+           						</p>
+        						</div>
+    					  </div>
+					</div>	
+
+					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
+						  <div className="view hovereffect rounded z-depth-3">
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/foodTruck.jpeg?raw=true" alt=""/>
+        						<div className="overlay">
+           						<h1>NYC Open Data</h1>
+           						<p className="info">Prototype Tool Displaying Food Trucks in NYC|March 2018
+           						<a className="btn  btn-sm" target="_blank" href="https://github.com/JazmynFuller/Food_Vendor" ><i className="fas fa-code left"></i>More Info</a>
+           						</p>
+        						</div>
+    					  </div>
+					</div>	
+
+			
+					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
+						  <div className="view hovereffect rounded z-depth-3">
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/baking.jpeg?raw=true" alt=""/>
+        						<div className="overlay">
+           						<h1>First Website</h1>
+           						<p className="info">Simple Dessert Ideas for Christmas|Oct 2018
+           						<a className="btn  btn-sm" target="_blank" href="https://github.com/JazmynFuller/Fall2018WebDesign1" ><i className="fas fa-code left"></i>More Info</a>
+           						</p>
+        						</div>
+    					  </div>
+					</div>	
+
+					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
+						<div className="view hovereffect rounded z-depth-3">
+								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/hub.jpeg?raw=true" class="img-fluid " alt="smaple image"/>
+								<div className="overlay">
+									<h1>HackathonHub</h1>
+									<p className="info">Site where hackathon attendees can form/join teams|Dec 2018
+									<a className="btn  btn-sm" target="_blank" href="https://github.com/AnonymousKoala/hackathonhub"><i className="fas fa-code left"></i>More Info</a>
+									</p>
+								</div>
 						</div>
-
-						<div className="card-body pb-0">
-      						<a className="btn  btn-sm" target="_blank" href="https://github.com/JazmynFuller/iot-tumbler" ><i className="fas fa-code left"></i>More Info</a>
-   						</div>
-					</div>
-
-					<div className="col-lg-4 col-md-6 mb-md-0 mb-4">
-    					<div className="view overlay rounded z-depth-1">
-      					<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/bullsEye.jpg?raw=true" className="img-fluid" alt="Sample project image"/>
-      					
-        					<div className="mask rgba-stylish-strong box">
-        						<figure className="effect-chico">
-        							<figcaption>
-        								<h3>iOS Target-Game</h3>
-        								<p>First coding project in Swift</p>
-        							</figcaption>
-								</figure>
-
-        					</div>
-      					
-    					</div>
- 
-    					<div className="card-body pb-0">
-      					<a className="btn  btn-sm" target="_blank" href="https://github.com/kr3110/Hitme-ios-app" ><i className="fas fa-code left"></i>More Info</a>
-    					</div>
-  					</div>
-
-  					<div className="col-lg-4 col-md-12 mb-lg-0 mb-4">
-						<div className="view overlay rounded z-depth-1">
-								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/foodTruck.jpeg?raw=true" className="img-fluid" alt="Sample project image"/>
-								
-        							<div className="mask rgba-stylish-strong box">
-        								<figure className="effect-chico">
-        										<figcaption>
-        											<h3>NYC Open Data</h3>
-        											<p>Prototype Tool Displaying Food Trucks in NYC</p>
-        										</figcaption>
-        								</figure>
-        							</div>
-      							
-						</div>
-
-						<div className="card-body pb-0">
-      						<a className="btn  btn-sm" target="_blank" href="https://github.com/JazmynFuller/Food_Vendor" ><i className="fas fa-code left"></i>More Info</a>
-   						</div>
-					</div>
+					</div>	
 				</div>
 
-				<div className="row text-center project-cards justify-content-center">
-					<div className="col-lg-4 col-md-12 mb-lg-0 mb-4">
-						<div className="view overlay rounded z-depth-1">
-								<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/baking.jpeg?raw=true" className="img-fluid" alt="Sample project image"/>
-								
-        							<div className="mask rgba-stylish-strong box">
-        								<figure className="effect-chico">
-        									<figcaption>
-        										<h3>First Web Design Project</h3>
-        										<p>Simple Dessert Ideas for Christmas</p>
-        									</figcaption>
-        								</figure>
-        							</div>
-      							
-						</div>
-
-						<div className="card-body pb-0">
-      						<a className="btn  btn-sm" target="_blank" href="https://github.com/JazmynFuller/Fall2018WebDesign1" ><i className="fas fa-code left"></i>More Info</a>
-   						</div>
-					</div>
-
-					<div className="col-lg-4 col-md-6 mb-md-0 mb-4">
-    					
-    					<div className="view overlay rounded z-depth-1">
-      					<img src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/hub.jpeg?raw=true"className="img-fluid" alt="Sample project image"/>
-      						
-        					<div className="mask rgba-stylish-strong box">
-        						<figure className="effect-chico">
-        							<figcaption>
-        								<h3>HackathonHub</h3>
-        								<p>Website where hackathon attendees can form or join teams</p>
-        							</figcaption>
-        						</figure>
-        					</div>
-    					</div>
- 						
-    					<div className="card-body pb-0">
-      					<a className="btn  btn-sm" target="_blank" href="https://github.com/AnonymousKoala/hackathonhub"><i className="fas fa-code left"></i>More Info</a>
-    					</div>
-  					</div>
+			
 
 
-				</div>
-
+				
 				<div className="row justify-content-center sub-headings skills-content">
 					<div className="col-md-12"><h4>MySkills()</h4><hr></hr>
 					
@@ -135,6 +93,7 @@ function Projects () {
 						</p>
 					</div>
 				</div>
+
 
 
 				<div className="row justify-content-center progress-chart">

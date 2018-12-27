@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import MyNav from "./components/MyNav";
 import PhotoContent from "./components/PhotoContent";
 import Footer from "./components/Footer";
-
 import Projects from './components/Projects';
 
 import './App.css';
