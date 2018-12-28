@@ -31,7 +31,7 @@ import React from "react"
         </div>
 
         <div className="col-md-12 align-items-center">
-          <a target="_blank" href="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/pdfs/Jazmyn_Fuller_Resume.pdf">Resume</a>
+          <a target="_blank" href="https://raw.githubusercontent.com/JazmynFuller/PersonalWebPortfolio/master/personalpage/src/pdfs/Jazmyn_Fuller_Resume.pdf">Resume</a>
         </div>
 
       </div>
