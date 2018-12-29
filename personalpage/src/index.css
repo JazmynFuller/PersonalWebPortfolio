@@ -88,6 +88,7 @@ code {
 .introPara{
 	font-size: 180% !important;
 	font-weight: 340;
+  margin-right: 45%;
 }
 
 .text-focus-in {
@@ -127,7 +128,7 @@ code {
 
 main{
 	padding-left: 1%;
-	padding-top: 11%;
+	padding-top: 10%;
 	text-align: left;
 	background-image: url("https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/green1a.jpg?raw=true");
   width: 100%;
@@ -295,6 +296,31 @@ hr {
   box-shadow: 0 0 5px #fff;
 }
 
+@media screen and (max-width: 1024px) {
+   .introHead {
+    text-align: center;
+    font-size: 720% !important;
+  }
+
+  .introPara{
+    text-align: center;
+    margin: 0 10%;
+    font-size: 420% !important;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .introHead {
+    text-align: center;
+    font-size: 420% !important;
+  }
+
+  .introPara{
+    text-align: center;
+    margin: 0 5%;
+    font-size: 320% !important;
+  }
+}
 
 @media screen and (max-width: 640px) {
   .project-heading h1 {
@@ -303,7 +329,40 @@ hr {
   h3 {
     display: all !important;
   }
+  .introHead {
+    text-align: center;
+  }
 
+  .introPara{
+    text-align: center;
+    margin: 0 5%;
+    font-size: 200% !important;
+  }
+
+}
+
+@media screen and (max-width: 414px) {
+  .introHead {
+    text-align: center;
+  }
+
+  .introPara{
+    text-align: center;
+    margin: 0 9%;
+    font-size: 220% !important;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .introHead {
+    text-align: center;
+  }
+
+  .introPara{
+    text-align: center;
+    margin: 0 9%;
+    font-size: 190% !important;
+  }
 }
 
 @media screen and (max-width: 320px) {
@@ -316,6 +375,16 @@ hr {
   .project-heading h1 {
     font-size: 120% !important;
     font-weight: 500!important; 
+  }
+
+  .introHead {
+    text-align: center;
+  }
+
+  .introPara{
+    text-align: center;
+    margin: 0 9%;
+    font-size: 150% !important;
   }
 }
 
