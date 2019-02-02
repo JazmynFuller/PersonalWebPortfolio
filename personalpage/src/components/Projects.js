@@ -23,7 +23,7 @@ function Projects () {
         						<div className="overlay">
            						<h1>IoT Smart Device</h1>
            						<p className="info">Responsive Design Practice|Dec 2018<br></br>
-           						<a className="btn  btn-sm" target="_blank" href="https://github.com/JazmynFuller/iot-tumbler" ><i className="fas fa-code left"></i>More Info</a>
+           						<a className="btn  btn-sm" target="_blank" href="https://venus.cs.qc.cuny.edu/~abma2399/iot-tumbler/public/" ><i className="fas fa-code left"></i>Live Site</a>
            						</p>
         						</div>
     					  </div>
