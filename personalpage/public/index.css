@@ -8,7 +8,10 @@
 
 .navbar {
 	background-color: #130303 !important;
+}
 
+.navbar-collapse {
+  text-align: center;
 }
 
 #id {
@@ -362,66 +365,41 @@ footer {
   bottom: 0px;
   width: 100%;
 }
-@media screen and (max-width: 1024px) {
+ @media screen and (max-width: 1024px) {
    .introHead {
     text-align: center;
-    font-size: 720% !important;
+    font-size: 520% !important;
   }
 
   .introPara{
     text-align: center;
     margin: 0 10%;
-    font-size: 420% !important;
+    font-size: 280% !important;
+  }
+  .wd-main-heading {
+    font-size: 500%;
   }
 }
 
 @media screen and (max-width: 780px) {
-  .introHead {
-    text-align: center;
-    font-size: 420% !important;
-  }
-
+  
   .introPara{
     text-align: center;
     margin: 0 5%;
     font-size: 320% !important;
   }
-}
 
-@media screen and (max-width: 640px) {
-  .project-heading h1 {
-    font-size: 300% !important;
-  }
-  h3 {
-    display: all !important;
-  }
-  .introHead {
+  .wd-main-heading {
     text-align: center;
-  }
-
-  .introPara{
-    text-align: center;
-    margin: 0 5%;
-    font-size: 200% !important;
-  }
-
-}
-
-@media screen and (max-width: 414px) {
-  .introHead {
-    text-align: center;
-  }
-
-  .introPara{
-    text-align: center;
-    margin: 0 9%;
-    font-size: 220% !important;
+    font-size: 300%;
   }
 }
 
-@media screen and (max-width: 375px) {
+
+@media screen and (max-width: 720px) {
   .introHead {
     text-align: center;
+    font-size: 310% !important;
   }
 
   .introPara{
@@ -431,28 +409,12 @@ footer {
   }
 }
 
-@media screen and (max-width: 320px) {
 
-  .introPara{
-  font-size: 100% !important;
-  font-weight: 340;
-  }
 
-  .project-heading h1 {
-    font-size: 120% !important;
-    font-weight: 500!important; 
-  }
 
-  .introHead {
-    text-align: center;
-  }
 
-  .introPara{
-    text-align: center;
-    margin: 0 9%;
-    font-size: 150% !important;
-  }
-}
+
+
 
 
 
