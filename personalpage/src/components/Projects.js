@@ -68,7 +68,7 @@ function Projects () {
 
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						<div className="view hovereffect rounded z-depth-3">
-								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/hub.jpeg?raw=true" class="img-fluid " alt="smaple image"/>
+								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/hub.jpeg?raw=true" className="img-fluid " alt="smaple image"/>
 								<div className="overlay">
 									<h1>HackathonHub</h1>
 									<p className="info">Site where hackathon attendees can form/join teams|Dec 2018

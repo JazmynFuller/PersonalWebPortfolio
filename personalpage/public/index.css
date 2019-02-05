@@ -409,7 +409,35 @@ footer {
   }
 }
 
+.fade-in-fwd {
+  -webkit-animation: fade-in-fwd 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) 1.4s both;
+          animation: fade-in-fwd 1.2s cubic-bezier(0.390, 0.575, 0.565, 1.000) 1.4s both;
+}
 
+@-webkit-keyframes fade-in-fwd {
+  0% {
+    -webkit-transform: translateZ(-80px);
+            transform: translateZ(-80px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+    opacity: 1;
+  }
+}
+@keyframes fade-in-fwd {
+  0% {
+    -webkit-transform: translateZ(-80px);
+            transform: translateZ(-80px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+    opacity: 1;
+  }
+}
 
 
 
