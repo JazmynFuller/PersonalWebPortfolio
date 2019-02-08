@@ -14,9 +14,8 @@
   text-align: center;
 }
 
-#id {
 
-}
+
  body {
   margin: 0;
   padding: 0;
@@ -271,6 +270,10 @@ hr {
 
 .pcard {
   margin: 3% 0;
+}
+
+#submit-bttn {
+  padding: 50% 0;
 }
 
 .hovereffect {
