@@ -19,7 +19,7 @@ function Projects () {
 				<div className="row justify-content-center text-center project-cards">
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						  <div className="view hovereffect rounded z-depth-3">
-       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/tumbl%C3%ABr.jpg?raw=true" alt=""/>
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/tumbl%C3%ABr.jpg?raw=true" alt=""/>
         						<div className="overlay">
            						<h1>IoT Smart Device</h1>
            						<p className="info">Responsive Design Practice|Dec 2018<br></br>
@@ -31,7 +31,7 @@ function Projects () {
 
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						  <div className="view hovereffect rounded z-depth-3">
-       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/bullsEye.jpg?raw=true" alt=""/>
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/bullsEye.jpg?raw=true" alt=""/>
         						<div className="overlay">
            						<h1>iOS Target-Game</h1>
            						<p className="info">First coding project in Swift|Jan 2018<br></br>
@@ -43,7 +43,7 @@ function Projects () {
 
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						  <div className="view hovereffect rounded z-depth-3">
-       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/foodTruck.jpeg?raw=true" alt=""/>
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/foodTruck.jpeg?raw=true" alt=""/>
         						<div className="overlay">
            						<h1>NYC Open Data</h1>
            						<p className="info">Prototype Tool Displaying Food Trucks in NYC|March 2018
@@ -56,7 +56,7 @@ function Projects () {
 			
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						  <div className="view hovereffect rounded z-depth-3">
-       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/baking.jpeg?raw=true" alt=""/>
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/baking.jpeg?raw=true" alt=""/>
         						<div className="overlay">
            						<h1>First Website</h1>
            						<p className="info">Simple Dessert Ideas for Christmas|Oct 2018
@@ -68,7 +68,7 @@ function Projects () {
 
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						<div className="view hovereffect rounded z-depth-3">
-								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/personalpage/src/img/hub.jpeg?raw=true" className="img-fluid " alt="smaple image"/>
+								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/hub.jpeg?raw=true" className="img-fluid " alt="smaple image"/>
 								<div className="overlay">
 									<h1>HackathonHub</h1>
 									<p className="info">Site where hackathon attendees can form/join teams|Dec 2018
