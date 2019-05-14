@@ -55,7 +55,7 @@ function Projects () {
 
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						<div className="view hovereffect rounded z-depth-3">
-								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/hub.jpeg?raw=true" className="img-fluid " alt="smaple image"/>
+								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/traffic.jpg?raw=true" className="img-fluid " alt="smaple image"/>
 								<div className="overlay">
 									<h1>NYC Traffic Statistics</h1>
 									<p className="info">Site thats displays life traffic data and accident stats from 3 APIs|May 2019
@@ -144,9 +144,9 @@ function Projects () {
 
 				<div className="row justify-content-center progress-chart" id="bottom-bar">
 					<div className="col-md-8">
-					<h5>React/JavaScript</h5>
+					<h5>JavaScript</h5>
 						<div className="progress">
-                    		<div className="progress-bar progress-bar-striped progress-bar-animated bg-info" id="bar-1" role="progressbar" style={{width: "30%"}} aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">30%</div>
+                    		<div className="progress-bar progress-bar-striped progress-bar-animated bg-info" id="bar-1" role="progressbar" style={{width: "70%"}} aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">70%</div>
                   		</div>
 					</div>
 				</div>
