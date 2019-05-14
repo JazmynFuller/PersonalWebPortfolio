@@ -23,7 +23,7 @@ function Projects () {
         						<div className="overlay">
            						<h1>IoT Smart Device</h1>
            						<p className="info">Responsive Design Practice|Dec 2018<br></br>
-           						<a className="btn  btn-sm" target="_blank" href="https://venus.cs.qc.cuny.edu/~abma2399/iot-tumbler/public/" ><i className="fas fa-code left"></i>Live Site</a>
+           						<a className="btn  btn-sm" target="_blank" href="https://venus.cs.qc.cuny.edu/~abma2399/iot-tumbler/public/" ><i className="fas fa-code left"></i>Visit Site</a>
            						</p>
         						</div>
     					  </div>
@@ -59,7 +59,7 @@ function Projects () {
 								<div className="overlay">
 									<h1>NYC Traffic Statistics</h1>
 									<p className="info">Site thats displays life traffic data and accident stats from 3 APIs|May 2019
-									<a className="btn  btn-sm" target="_blank" href="https://github.com/AnonymousKoala/hackathonhub"><i className="fas fa-code left"></i>More Info</a>
+									<a className="btn  btn-sm" target="_blank" href="https://jazmynfuller.github.io/FinalProject/index.html"><i className="fas fa-code left"></i>Visit Site</a>
 									</p>
 								</div>
 						</div>
