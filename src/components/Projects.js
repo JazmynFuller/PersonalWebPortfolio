@@ -30,16 +30,16 @@ function Projects () {
 					</div>	
 
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
-						  <div className="view hovereffect rounded z-depth-3">
-       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/bullsEye.jpg?raw=true" alt=""/>
-        						<div className="overlay">
-           						<h1>iOS Target-Game</h1>
-           						<p className="info">First coding project in Swift|Jan 2018<br></br>
-           						<a className="btn  btn-sm" target="_blank" href="https://github.com/kr3110/Hitme-ios-app" ><i className="fas fa-code left"></i>More Info</a>
-           						</p>
-        						</div>
-    					  </div>
-					</div>	
+						<div className="view hovereffect rounded z-depth-3">
+								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/traffic.jpg?raw=true" className="img-fluid " alt="smaple image"/>
+								<div className="overlay">
+									<h1>NYC Traffic Statistics</h1>
+									<p className="info">Site displaying live traffic data and accident stats using 3 APIs & D3js |May 2019
+									<a className="btn  btn-sm" target="_blank" href="https://jazmynfuller.github.io/FinalProject/index.html"><i className="fas fa-code left"></i>Visit Site</a>
+									</p>
+								</div>
+						</div>
+					</div>
 
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						  <div className="view hovereffect rounded z-depth-3">
@@ -54,16 +54,16 @@ function Projects () {
 					</div>	
 
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
-						<div className="view hovereffect rounded z-depth-3">
-								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/traffic.jpg?raw=true" className="img-fluid " alt="smaple image"/>
-								<div className="overlay">
-									<h1>NYC Traffic Statistics</h1>
-									<p className="info">Site thats displays life traffic data and accident stats from 3 APIs|May 2019
-									<a className="btn  btn-sm" target="_blank" href="https://jazmynfuller.github.io/FinalProject/index.html"><i className="fas fa-code left"></i>Visit Site</a>
-									</p>
-								</div>
-						</div>
-					</div>
+						  <div className="view hovereffect rounded z-depth-3">
+       						 <img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/bullsEye.jpg?raw=true" alt=""/>
+        						<div className="overlay">
+           						<h1>iOS Target-Game</h1>
+           						<p className="info">First coding project in Swift|Jan 2018<br></br>
+           						<a className="btn  btn-sm" target="_blank" href="https://github.com/kr3110/Hitme-ios-app" ><i className="fas fa-code left"></i>More Info</a>
+           						</p>
+        						</div>
+    					  </div>
+					</div>	
 			
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						  <div className="view hovereffect rounded z-depth-3">
