@@ -53,6 +53,17 @@ function Projects () {
     					  </div>
 					</div>	
 
+					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
+						<div className="view hovereffect rounded z-depth-3">
+								<img className="img-fluid" src="https://github.com/JazmynFuller/PersonalWebPortfolio/blob/master/src/img/hub.jpeg?raw=true" className="img-fluid " alt="smaple image"/>
+								<div className="overlay">
+									<h1>NYC Traffic Statistics</h1>
+									<p className="info">Site thats displays life traffic data and accident stats from 3 APIs|May 2019
+									<a className="btn  btn-sm" target="_blank" href="https://github.com/AnonymousKoala/hackathonhub"><i className="fas fa-code left"></i>More Info</a>
+									</p>
+								</div>
+						</div>
+					</div>
 			
 					<div className="col-lg-4 col-md-4 col-sm-4 col-xs-12 pcard">
 						  <div className="view hovereffect rounded z-depth-3">
@@ -76,7 +87,7 @@ function Projects () {
 									</p>
 								</div>
 						</div>
-					</div>	
+					</div>		
 				</div>
 
 			
