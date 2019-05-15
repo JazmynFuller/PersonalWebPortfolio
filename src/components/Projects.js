@@ -111,33 +111,7 @@ function Projects () {
 					<div className="col-md-8">
 					<h5>HTML/CSS</h5>
 						<div className="progress">
-                    		<div className="progress-bar progress-bar-striped progress-bar-animated bg-success" id="bar-1" role="progressbar" style={{width: "75%"}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
-                  		</div>
-					</div>
-				</div>
-				<div className="row justify-content-center progress-chart">
-					<div className="col-md-8">
-					<h5>Java</h5>
-						<div className="progress">
-                    		<div className="progress-bar progress-bar-striped progress-bar-animated bg-success" id="bar-1" role="progressbar" style={{width: "60%"}} aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
-                  		</div>
-					</div>
-				</div>
-
-				<div className="row justify-content-center progress-chart">
-					<div className="col-md-8">
-					<h5>Python</h5>
-						<div className="progress">
-                    		<div className="progress-bar progress-bar-striped progress-bar-animated" id="bar-1" role="progressbar" style={{width: "50%"}} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
-                  		</div>
-					</div>
-				</div>
-
-				<div className="row justify-content-center progress-chart">
-					<div className="col-md-8">
-					<h5>Swift</h5>
-						<div className="progress">
-                    		<div className="progress-bar progress-bar-striped progress-bar-animated" id="bar-1" role="progressbar" style={{width: "50%"}} aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+                    		<div className="progress-bar progress-bar-striped progress-bar-animated bg-success" id="bar-1" role="progressbar" style={{width: "90%"}} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
                   		</div>
 					</div>
 				</div>
@@ -146,10 +120,38 @@ function Projects () {
 					<div className="col-md-8">
 					<h5>JavaScript</h5>
 						<div className="progress">
-                    		<div className="progress-bar progress-bar-striped progress-bar-animated bg-info" id="bar-1" role="progressbar" style={{width: "70%"}} aria-valuenow="30" aria-valuemin="0" aria-valuemax="100">70%</div>
+                    		<div className="progress-bar progress-bar-striped progress-bar-animated bg-success" id="bar-1" role="progressbar" style={{width: "80%"}} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
                   		</div>
 					</div>
 				</div>
+
+				<div className="row justify-content-center progress-chart">
+					<div className="col-md-8">
+					<h5>Java</h5>
+						<div className="progress">
+                    		<div className="progress-bar progress-bar-striped progress-bar-animated bg-success" id="bar-1" role="progressbar" style={{width: "70%"}} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+                  		</div>
+					</div>
+				</div>
+
+				<div className="row justify-content-center progress-chart">
+					<div className="col-md-8">
+					<h5>Python</h5>
+						<div className="progress">
+                    		<div className="progress-bar progress-bar-striped progress-bar-animated" id="bar-1" role="progressbar" style={{width: "60%"}} aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+                  		</div>
+					</div>
+				</div>
+
+				<div className="row justify-content-center progress-chart">
+					<div className="col-md-8">
+					<h5>SQL</h5>
+						<div className="progress">
+                    		<div className="progress-bar progress-bar-striped progress-bar-animated" id="bar-1" role="progressbar" style={{width: "60%"}} aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+                  		</div>
+					</div>
+				</div>
+
 		</div>
     	)
 }
