@@ -98,8 +98,8 @@ function Projects () {
 					<div className="col-md-12"><h4>MySkills()</h4><hr></hr>
 					
 						<p>Below are the current languages I've coded in, and how comfortable <br></br> I feel with them (100% being super confident).
-						The front-end languages are more recent than Java and Python.<br></br> I've picked up on HTML,CSS, and React much faster than Java. I am also interested in learning more <br></br>
-						and improving my skills in those languages. Overall, I prefer front-end developing and <br></br>
+						The front-end languages are more recent than Java and Python.<br></br> With the front-end languages I've used the following frameworks/libraries; Bootstrap, React, and D3js. <br></br>
+						I've also used Adobe Photoshop, Adobe Illustrator and Sketch to create assets/designs for my projects.<br></br> Overall, I prefer front-end developing and 
 						designing more than my previous coding experiences.
 						</p>
 					</div>
