@@ -104,9 +104,6 @@ function Projects () {
 						</p>
 					</div>
 				</div>
-
-
-
 				<div className="row justify-content-center progress-chart">
 					<div className="col-md-8">
 					<h5>HTML/CSS</h5>
@@ -115,7 +112,6 @@ function Projects () {
                   		</div>
 					</div>
 				</div>
-
 				<div className="row justify-content-center progress-chart" id="bottom-bar">
 					<div className="col-md-8">
 					<h5>JavaScript</h5>
@@ -124,7 +120,6 @@ function Projects () {
                   		</div>
 					</div>
 				</div>
-
 				<div className="row justify-content-center progress-chart">
 					<div className="col-md-8">
 					<h5>Java</h5>
@@ -133,7 +128,6 @@ function Projects () {
                   		</div>
 					</div>
 				</div>
-
 				<div className="row justify-content-center progress-chart">
 					<div className="col-md-8">
 					<h5>Python</h5>
@@ -142,7 +136,6 @@ function Projects () {
                   		</div>
 					</div>
 				</div>
-
 				<div className="row justify-content-center progress-chart">
 					<div className="col-md-8">
 					<h5>SQL</h5>
@@ -151,9 +144,7 @@ function Projects () {
                   		</div>
 					</div>
 				</div>
-
 		</div>
     	)
 }
-
 export default Projects

@@ -27,7 +27,7 @@ function MyNav() {
               <a className="nav-link" href="#">Baking</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="../web-design-2.html">Web Design II</a>
+              <a className="nav-link" href="../CS355.html">CS 355</a>
             </li>
           </ul>
         </div>
